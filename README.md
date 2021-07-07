@@ -1,9 +1,8 @@
 <h2>Hello There</h2>
 <ul>
-  <li>👋 I’m @eesa-syed</li>
-  <li>👀 I’m interested in AI and Data Statistics</li>
-  <li>🌱 I’m currently learning Machine Learning</li>
-  <li>💞️ I’m looking to collaborate on tensorflow projects</li>
+  <li>👀 I’m interested in AI and Machine Learning</li>
+  <li>🌱 I’m currently learning Web Development</li>
+  <li>💞️ I’m looking to contribute on Open Sourse projects</li>
   <li>📫 How to reach me - www.linkedin.com/in/eesa-syed</li>
 </ul>
 <!---
