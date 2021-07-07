@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @eesa-syed
+<h2>Hello There</h2>
+- 👋 I’m @eesa-syed
 - 👀 I’m interested in AI and Data Statistics
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on tensorflow projects
